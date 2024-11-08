@@ -1,1 +1,2 @@
 # astroids
+## 🤝 Contributing
